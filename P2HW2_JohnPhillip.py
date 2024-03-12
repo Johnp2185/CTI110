@@ -6,12 +6,12 @@
 #Prompt user to enter grades for the following Modules.
 #Read the user inputs and store in a list.
 
-Module_1 = float(input())
-Module_2 = float(input())
-Module_3 = float(input())
-Module_4 = float(input())
-Module_5 = float(input())
-Module_6 = float(input())
+Module_1 = float(input('Enter Module 1 grade:'))
+Module_2 = float(input('Enter Module 2 grade:'))
+Module_3 = float(input('Enter Module 3 grade:'))
+Module_4 = float(input('Enter Module 4 grade:'))
+Module_5 = float(input('Enter Module 5 grade:'))
+Module_6 = float(input('Enter Module 6 grade:'))
 
 #Print a blank line for readability.
 print()
