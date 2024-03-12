@@ -7,12 +7,14 @@
 #Read the user inputs and store them in variables: Budget, Travel_Destination, Gas, Accommodation_Hotel, and Food.
 
 
-Budget = int(input()) 
-Travel_Destination = input()
-Gas = int(input())
-Accommodation_Hotel = int(input())
-Food = int(input())
+Budget = int(input('Enter Budget:')) 
+Travel_Destination = input('Enter travel destination:')
+Gas = int(input('Enter amount gas:'))
+Accommodation_Hotel = int(input('Enter amount for Accommodation/Hotel:'))
+Food = int(input('Enter amount for food:'))
 
+# Print a blank line for readability.
+print()
 # Print the user inputs to confirm:
 print('This program calculates and displays travel expenses')
 # Print a blank line for readability.
