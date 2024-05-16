@@ -1,7 +1,7 @@
 #Phillip John
 #6 Apr 24
 #P4HW1
-#A program that loops to collects the scores a user enters.
+#A program that loops to collects the scores a student enters and calculates average score.
 
 # Get the number of scores from the user
 num_scores = int(input('How many scores do you want to enter? '))
