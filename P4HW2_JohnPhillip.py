@@ -1,7 +1,7 @@
 #Phillip John
 #11 Apr 24
 #P4HW2
-#A program that displays hours an employee(s) worked and rate of pay.
+#A program that displays hours employee(s) worked and rate of pay.
 
 total_employees = 0
 total_overtime_pay = 0
